@@ -1,9 +1,5 @@
 # time-tracker-open
 
-## 🔗 Links
-- [페이지 주소 (demo)](https://time-tracker-open.pages.dev/)
-- [Github 코드 (always public)](https://github.com/psst54/time_tracker_open)
-
 ## ✨ Introduction
 10분 플래너
 
@@ -18,6 +14,10 @@
 <img src="https://github.com/psst54/time_tracker_open/assets/63946327/5ad8b395-4ee8-4323-aa9e-959aebabb664" width="250" height="auto"/>
 <img src="https://github.com/psst54/time_tracker_open/assets/63946327/f9898289-8fb9-4011-9344-ff4fe6bbfe3a" width="250" height="auto"/>
 <img src="https://github.com/psst54/time_tracker_open/assets/63946327/e4356fe7-43d6-42bb-aa0c-5002dac7438e" width="250" height="auto"/>
+
+## 🔗 Links
+- [페이지 주소 (demo)](https://time-tracker-open.pages.dev/)
+- [Github 코드 (always public)](https://github.com/psst54/time_tracker_open)
 
 ## 🛠️ Tech Stack
 <div>
